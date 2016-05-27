@@ -2,6 +2,8 @@
 
 A personal website about making dinner
 
+[Recipe Videos](videos.md)
+
 ## YouTube cooking channels
 
 - [Angel Wong's Kitchen](https://www.youtube.com/channel/UCCJdqnlqrmTUAYvS6i3nAXA)
